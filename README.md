@@ -1,8 +1,10 @@
 ### Stock price forecasts
 
-## Walker
-## Maria Luiza
-## Benn
+#### Data Analysts:
+
+##### Walker
+##### Maria Luiza
+##### Benn
 
 
 
@@ -14,3 +16,15 @@
 
 
 ### Previsões de valor de ações
+
+#### Analistas de dados:
+
+
+##### Walker
+##### Maria Luiza
+##### Benn
+
+
+
+
+
